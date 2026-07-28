@@ -1,14 +1,14 @@
 <div align="center">
 
 #  Buka Project di bawah ini
--Nadya Putri
+Nadya Putri
 
 ![Status](https://img.shields.io/badge/Status-Design_Thinking_Selesai-success?style=flat-square)
 ![Tugas](https://img.shields.io/badge/Project-Magang-blue?style=flat-square)
 
 </div>
 
-> **Selamat datang di repositori PermitID!** 🚀  
+> **Selamat datang di repositori Nadya!** 🚀  
 > Repositori ini berisi kumpulan dokumen perancangan, hasil riset kebutuhan pengguna, dan alur kerja (*flowchart*) untuk pengembangan sistem perizinan berbasis digital.
 
 ---
@@ -30,5 +30,5 @@ Berikut adalah daftar dokumen perancangan untuk proyek **E-Izin**:
 <br>
 
 <div align="center">
-  <i>Dikerjakan dengan 💡 dan dedikasi untuk pengembangan digitalisasi sekolah.</i>
+  <i>.</i>
 </div>
