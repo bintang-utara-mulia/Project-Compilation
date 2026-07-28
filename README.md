@@ -8,12 +8,12 @@ Nadya Putri
 
 </div>
 
-> **Selamat datang di repositori Nadya!** 🚀  
+> **Selamat datang di repositori Nadya!** 
 > Repositori ini berisi kumpulan dokumen perancangan, hasil riset kebutuhan pengguna, dan alur kerja (*flowchart*) untuk pengembangan sistem perizinan berbasis digital.
 
 ---
 
-## 📁 Dokumentasi Utama (PermitID)
+##  Dokumentasi Utama (PermitID)
 
 Berikut adalah daftar dokumen perancangan untuk proyek **E-Izin**:
 
